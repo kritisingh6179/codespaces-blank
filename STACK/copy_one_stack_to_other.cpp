@@ -1,3 +1,4 @@
+// copy content of one stack in another in same order
 #include<bits/stdc++.h>
 using namespace std;
 stack<int> a(stack<int> &input){
