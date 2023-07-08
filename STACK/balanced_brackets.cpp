@@ -1,4 +1,5 @@
 //balanced paranthesis
+//tc=o(n) sc=o(n)
 #include <bits/stdc++.h>
 using namespace std;
 bool balancebracket(string a){
